@@ -1,0 +1,13 @@
+{
+  "_id": "697f4175b6c0b4b567e2526b",
+  "name": "Spring Rolls",
+  "description": "Crispy veggie rolls served with sweet chili sauce.",
+  "category": "Appetizer",
+  "price": 5.99,
+  "ingredients": [],
+  "isAvailable": true,
+  "imageUrl": "https://images.unsplash.com/photo-1539136788836-5699e78bac75?w=500&auto=format",
+  "__v": 0,
+  "createdAt": "2026-02-01T12:05:09.580Z",
+  "updatedAt": "2026-02-01T12:05:09.580Z"
+}
